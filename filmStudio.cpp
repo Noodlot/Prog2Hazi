@@ -9,7 +9,7 @@
 
 int main()
 {
-	std::cout << "Udvozlet!" << std::endl << "Csak Csongor Programozas Aaapjai 2 Nagy Hazifeladataban!" << std::endl << "Remelem tetszeni fog!" << std::endl << std::endl << std::endl;
+	std::cout << "Udvozlet!" << std::endl << "Csak Csongor Programozas Alapjai 2 Nagy Hazifeladataban!" << std::endl << "Remelem tetszeni fog!" << std::endl << std::endl << std::endl;
 	check();
 
 	//----------Elso feladat:----------
